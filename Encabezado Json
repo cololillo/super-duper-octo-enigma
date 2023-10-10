@@ -1,0 +1,52 @@
+URL De La Solicitud:
+https://github.com/manifest.json
+Método De Solicitud:
+GET
+Código De Estado:
+200 OK (de la caché del disco)
+Dirección Remota:
+140.82.121.3:443
+Directiva Del Origen De Referencia:
+no-referrer-when-downgrade
+Accept-Ranges:
+bytes
+Cache-Control:
+max-age=604800, public
+Content-Encoding:
+gzip
+Content-Length:
+367
+Content-Security-Policy:
+default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.githubcopilot.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events objects-origin.githubusercontent.com *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com support.github.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Content-Type:
+application/manifest+json; charset=utf-8
+Date:
+Tue, 10 Oct 2023 03:15:11 GMT
+Etag:
+W/"3016f714f989fca13ca81d86d3d139bc"
+Referrer-Policy:
+origin-when-cross-origin, strict-origin-when-cross-origin
+Server:
+GitHub.com
+Vary:
+X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options:
+nosniff
+X-Frame-Options:
+deny
+X-Github-Request-Id:
+61D9:A28A:12E6FF4:1343DA3:6524C1C1
+X-Xss-Protection:
+0
+Dnt:
+1
+Referer:
+https://github.com/cololillo/super-duper-octo-enigma/new/main
+Sec-Ch-Ua:
+"Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"Windows"
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
