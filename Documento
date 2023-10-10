@@ -1,0 +1,72 @@
+URL De La Solicitud:
+https://github.com/cololillo/super-duper-octo-enigma/new/main
+Método De Solicitud:
+POST
+Código De Estado:
+200 OK
+Dirección Remota:
+140.82.121.4:443
+Directiva Del Origen De Referencia:
+no-referrer-when-downgrade
+Cache-Control:
+max-age=0, private, must-revalidate
+Content-Encoding:
+gzip
+Content-Security-Policy:
+default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.githubcopilot.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events objects-origin.githubusercontent.com *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ wss://*.actions.githubusercontent.com github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com support.github.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Content-Type:
+text/html; charset=utf-8
+Date:
+Tue, 10 Oct 2023 19:01:23 GMT
+Etag:
+W/"ff77dbc4d6d912b3c98c73c1f45380ad"
+Referrer-Policy:
+no-referrer-when-downgrade
+Server:
+GitHub.com
+Set-Cookie:
+_gh_sess=ff0ZrQDtx%2FwLuUBh%2FdQXkZ3PpPoYhuMGtFkmvsAXkyr03w3AwXDPEoHv%2B8yd3kWUykVanWEjdljqE6nONvqt7s1vQrGkNcofEfmAkqSS6s1zC0cUKsvcUf5f7cVdSr4nsXHOIf0fC2x8do8AE8z99FN2LpaZoPNQPj5MdhV%2BhWLZS8nwFNfubLFbZHZ8fRk%2Br2wyFbvcOfbuD6RMAV4%2BotCcPbHn%2FIYm%2FMqZBpeUHZGZ4S3711a1zgwBTFAqRTClMr%2FMl35pwnLQ9L1HfE1%2BgtsD3sG6yfK9aUatyygU7yvn%2FxsKYX%2B1Ugvfczd1wf56iq013Rs7C77eACDxmfhoiK4xQad02Giv--eGT98kzdX9No7HCI--Y4WDiN%2FEERCvlO7hXVUAvQ%3D%3D; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie:
+has_recent_activity=1; path=/; expires=Tue, 10 Oct 2023 20:01:23 GMT; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security:
+max-age=31536000; includeSubdomains; preload
+Vary:
+Accept-Encoding, Accept, X-Requested-With
+Vary:
+X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame
+X-Content-Type-Options:
+nosniff
+X-Frame-Options:
+deny
+X-Github-Request-Id:
+666E:59B7:DCF65:DFE84:65259F77
+X-Xss-Protection:
+0
+:authority:
+github.com
+:method:
+POST
+:path:
+/cololillo/super-duper-octo-enigma/new/main
+:scheme:
+https
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+es,es-ES;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Cache-Control:
+max-age=0
+Content-Length:
+105
+Content-Type:
+application/x-www-form-urlencoded
+Cookie:
+_octo=GH1.1.82835887.1696907712; _device_id=6954a599b833eac9dacc5812ca61a66d; has_recent_activity=1; user_session=iD0cogYOS5W7EqkXt9IJGTwlgZgtPMqVHTJDdCEk93ZM5qX7; __Host-user_session_same_site=iD0cogYOS5W7EqkXt9IJGTwlgZgtPMqVHTJDdCEk93ZM5qX7; logged_in=yes; dotcom_user=cololillo; fileTreeExpanded=true; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22dark_colorblind%22%2C%22color_mode%22%3A%22dark%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; preferred_color_mode=dark; tz=Europe%2FMadrid; _gh_sess=Kn%2Faq5PUZUVRzeVKGVxmjqOy7Ah6s9AxdBM4xHssGomg%2B4INOcS32oFhhkWYD7HQQ08wYYM2vot74VkR1ieWY2Z76AHmA%2FOmx5fWlWsCXWzpZGiFsqxxnzJmVH%2Btrny8jl6CN%2Fy7hJQKX3YnMHP3jpJeH4NVzkKOzNK9Q2u%2FrFfiL%2BviOPbHYX2Fu6cxnjxDuS37JTpROrY392pryPdwuR2nlVlmQqJOEKPOxG6DNgbFiabJEhvXvRGMawT0oBjFgdRbwLJfZK3faLIBh6UMnstdvRr7uYGYT4iTet7lNj4xqByxS1ohOKgDK%2BmwpjthVVfaxnIiS1Bj4Y9Vo5L5gV452sTB9R9F--UjG1EyA9l6uVEyLp--LQ5cE5c0MCol5P8oP%2BOC%2Fg%3D%3D
+Dnt:
+1
+Origin:
+https://github.com
+Referer:
+https://github.com/cololillo/super-duper-
